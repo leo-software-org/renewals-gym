@@ -1,0 +1,104 @@
+{
+  "topics": [
+    {
+      "topic_id": "T01",
+      "title": "How formal should my first renewal email be?"
+    },
+    {
+      "topic_id": "T02",
+      "title": "Which customers usually move to a higher plan, and why?"
+    },
+    {
+      "topic_id": "T03",
+      "title": "What increase can I quote on the current tier?"
+    },
+    {
+      "topic_id": "T04",
+      "title": "Should I include a summary of our last conversation?"
+    },
+    {
+      "topic_id": "T05",
+      "title": "How do I price a customer-requested move down one tier?"
+    },
+    {
+      "topic_id": "T06",
+      "title": "Should I copy the finance contact into my opening email?"
+    },
+    {
+      "topic_id": "T07",
+      "title": "Who at a customer usually knows what?"
+    },
+    {
+      "topic_id": "T08",
+      "title": "Should I send a short reply or a fuller explanation?"
+    },
+    {
+      "topic_id": "T09",
+      "title": "How early may I send a renewal quote?"
+    },
+    {
+      "topic_id": "T10",
+      "title": "How should I acknowledge a request for a meeting?"
+    },
+    {
+      "topic_id": "T11",
+      "title": "When do customers set their budgets?"
+    },
+    {
+      "topic_id": "T12",
+      "title": "Which records should I use for the price base, dates, tier, and units?"
+    },
+    {
+      "topic_id": "T13",
+      "title": "How should I introduce myself to a replacement contact?"
+    },
+    {
+      "topic_id": "T14",
+      "title": "Should I acknowledge every customer message separately?"
+    },
+    {
+      "topic_id": "T15",
+      "title": "How many questions will a customer put up with?"
+    },
+    {
+      "topic_id": "T16",
+      "title": "Can I add a credit or another concession to close a renewal?"
+    },
+    {
+      "topic_id": "T17",
+      "title": "Should I use bullets when explaining the renewal options?"
+    },
+    {
+      "topic_id": "T18",
+      "title": "How should I respond when a customer mentions an internal reorganization?"
+    },
+    {
+      "topic_id": "T19",
+      "title": "Who counts as an active user when I calculate utilization?"
+    },
+    {
+      "topic_id": "T20",
+      "title": "Will customers pay for seats they use beyond their license?"
+    },
+    {
+      "topic_id": "T21",
+      "title": "How should I acknowledge a customer's praise for the software?"
+    },
+    {
+      "topic_id": "T22",
+      "title": "Should I restate the customer's question before answering it?"
+    },
+    {
+      "topic_id": "T23",
+      "title": "Which customers are most sensitive to price increases?"
+    },
+    {
+      "topic_id": "T24",
+      "title": "Should I send a separate thank-you after the customer signs?"
+    },
+    {
+      "topic_id": "T25",
+      "title": "How should I close an email when the customer has decided to leave?"
+    }
+  ]
+}
