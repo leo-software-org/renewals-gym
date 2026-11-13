@@ -1,0 +1,1480 @@
+{
+  "emails": [
+    {
+      "email_id": "SEED-0010",
+      "day": -30,
+      "date": "2027-01-30",
+      "from": "lorraine.henry@richard-washington-and-reyes.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 29 April 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nRichard, Washington and Reyes"
+    },
+    {
+      "email_id": "SEED-0078",
+      "day": -30,
+      "date": "2027-01-30",
+      "from": "jose.walls@thornton-wiley.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 16 May 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nThornton-Wiley"
+    },
+    {
+      "email_id": "SEED-0129",
+      "day": -30,
+      "date": "2027-01-30",
+      "from": "john.glenn@whitaker-black-and-williams.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 23 April 2027, so we're doing that review now.\n\nThank you,\nWhitaker, Black and Williams"
+    },
+    {
+      "email_id": "SEED-0050",
+      "day": -29,
+      "date": "2027-01-31",
+      "from": "jason.mitchell@guerrero-chambers-and-wilson.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 11 April 2027, it will be part of the discussion about what to do next.\n\nThanks,\nGuerrero, Chambers and Wilson"
+    },
+    {
+      "email_id": "SEED-0051",
+      "day": -29,
+      "date": "2027-01-31",
+      "from": "catherine.edwards@cochran-harris.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 18 April 2027, and we're looking through it now.\n\nBest,\nCochran-Harris"
+    },
+    {
+      "email_id": "SEED-0061",
+      "day": -29,
+      "date": "2027-01-31",
+      "from": "tyler.schwartz@green-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 9 April 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nGreen Ltd"
+    },
+    {
+      "email_id": "SEED-0094",
+      "day": -29,
+      "date": "2027-01-31",
+      "from": "rebecca.thompson@reynolds-king-and-thomas.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 20 June 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nReynolds, King and Thomas"
+    },
+    {
+      "email_id": "SEED-0111",
+      "day": -29,
+      "date": "2027-01-31",
+      "from": "nicholas.perez@davis-llc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 20 April 2027, it will be part of the discussion about what to do next.\n\nThanks,\nDavis LLC"
+    },
+    {
+      "email_id": "SEED-0025",
+      "day": -28,
+      "date": "2027-02-01",
+      "from": "jeremy.ramirez@kent-george.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 6 June 2027.\n\nRegards,\nKent-George"
+    },
+    {
+      "email_id": "SEED-0021",
+      "day": -27,
+      "date": "2027-02-02",
+      "from": "jamie.scott@bailey-and-sons.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 15 June 2027, and we're looking through it now.\n\nBest,\nBailey and Sons"
+    },
+    {
+      "email_id": "SEED-0026",
+      "day": -27,
+      "date": "2027-02-02",
+      "from": "patricia.jones@fischer-murray.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 15 June 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nFischer-Murray"
+    },
+    {
+      "email_id": "SEED-0070",
+      "day": -27,
+      "date": "2027-02-02",
+      "from": "terrence.perkins@parker-rodriguez-and-mendoza.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 20 June 2027, and we're looking through it now.\n\nBest,\nParker, Rodriguez and Mendoza"
+    },
+    {
+      "email_id": "SEED-0092",
+      "day": -27,
+      "date": "2027-02-02",
+      "from": "christopher.lee@may-zuniga.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 18 April 2027, so we're doing that review now.\n\nThank you,\nMay-Zuniga"
+    },
+    {
+      "email_id": "SEED-0105",
+      "day": -27,
+      "date": "2027-02-02",
+      "from": "alicia.smith@hunter-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 30 April 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nHunter Ltd"
+    },
+    {
+      "email_id": "SEED-0124",
+      "day": -27,
+      "date": "2027-02-02",
+      "from": "gabriel.brooks@jones-and-sons.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 5 June 2027, so we're doing that review now.\n\nThank you,\nJones and Sons"
+    },
+    {
+      "email_id": "SEED-0157",
+      "day": -27,
+      "date": "2027-02-02",
+      "from": "steven.cox@taylor-turner.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 22 May 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nTaylor-Turner"
+    },
+    {
+      "email_id": "SEED-0023",
+      "day": -26,
+      "date": "2027-02-03",
+      "from": "kathleen.kaiser@keller-miller.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 3 April 2027.\n\nRegards,\nKeller-Miller"
+    },
+    {
+      "email_id": "SEED-0032",
+      "day": -26,
+      "date": "2027-02-03",
+      "from": "michael.haynes@jones-allen-and-torres.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 15 June 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nJones, Allen and Torres"
+    },
+    {
+      "email_id": "SEED-0043",
+      "day": -26,
+      "date": "2027-02-03",
+      "from": "april.brady@king-ellison.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 27 April 2027, it will be part of the discussion about what to do next.\n\nThanks,\nKing-Ellison"
+    },
+    {
+      "email_id": "SEED-0007",
+      "day": -25,
+      "date": "2027-02-04",
+      "from": "luis.ryan@gonzalez-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 16 June 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nGonzalez PLC"
+    },
+    {
+      "email_id": "SEED-0038",
+      "day": -25,
+      "date": "2027-02-04",
+      "from": "donald.parsons@sharp-delgado-and-woods.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 3 June 2027, so we're doing that review now.\n\nThank you,\nSharp, Delgado and Woods"
+    },
+    {
+      "email_id": "SEED-0071",
+      "day": -25,
+      "date": "2027-02-04",
+      "from": "andrew.anderson@moore-brown.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 13 May 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nMoore-Brown"
+    },
+    {
+      "email_id": "SEED-0103",
+      "day": -25,
+      "date": "2027-02-04",
+      "from": "michael.jacobs@henderson-miller-and-salazar.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 27 April 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nHenderson, Miller and Salazar"
+    },
+    {
+      "email_id": "SEED-0147",
+      "day": -25,
+      "date": "2027-02-04",
+      "from": "mark.franklin@cannon-torres.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 12 May 2027, so we're doing that review now.\n\nThank you,\nCannon-Torres"
+    },
+    {
+      "email_id": "SEED-0150",
+      "day": -25,
+      "date": "2027-02-04",
+      "from": "jorge.johnson@nelson-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 26 May 2027, and we're looking through it now.\n\nBest,\nNelson Ltd"
+    },
+    {
+      "email_id": "SEED-0158",
+      "day": -25,
+      "date": "2027-02-04",
+      "from": "george.hopkins@hernandez-perry-and-crawford.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 14 April 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nHernandez, Perry and Crawford"
+    },
+    {
+      "email_id": "SEED-0015",
+      "day": -24,
+      "date": "2027-02-05",
+      "from": "nicholas.cooper@beasley-sanchez-and-doyle.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 2 April 2027, it will be part of the discussion about what to do next.\n\nThanks,\nBeasley, Sanchez and Doyle"
+    },
+    {
+      "email_id": "SEED-0117",
+      "day": -24,
+      "date": "2027-02-05",
+      "from": "chelsea.schultz@ramirez-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 25 May 2027, it will be part of the discussion about what to do next.\n\nThanks,\nRamirez PLC"
+    },
+    {
+      "email_id": "SEED-0054",
+      "day": -23,
+      "date": "2027-02-06",
+      "from": "taylor.le@edwards-hughes.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 8 May 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nEdwards-Hughes"
+    },
+    {
+      "email_id": "SEED-0001",
+      "day": -22,
+      "date": "2027-02-07",
+      "from": "michael.tran@cooper-raymond-and-conway.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 2 May 2027, and we're looking through it now.\n\nBest,\nCooper, Raymond and Conway"
+    },
+    {
+      "email_id": "SEED-0080",
+      "day": -22,
+      "date": "2027-02-07",
+      "from": "alexander.beasley@barber-reyes.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 6 May 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nBarber-Reyes"
+    },
+    {
+      "email_id": "SEED-0156",
+      "day": -22,
+      "date": "2027-02-07",
+      "from": "catherine.howard@wade-campbell.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 7 June 2027.\n\nRegards,\nWade-Campbell"
+    },
+    {
+      "email_id": "SEED-0101",
+      "day": -21,
+      "date": "2027-02-08",
+      "from": "stephanie.wilson@wallace-robinson-and-walker.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 24 May 2027.\n\nRegards,\nWallace, Robinson and Walker"
+    },
+    {
+      "email_id": "SEED-0036",
+      "day": -20,
+      "date": "2027-02-09",
+      "from": "priscilla.harrison@roy-inc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 22 May 2027, it will be part of the discussion about what to do next.\n\nThanks,\nRoy Inc"
+    },
+    {
+      "email_id": "SEED-0068",
+      "day": -20,
+      "date": "2027-02-09",
+      "from": "david.wright@turner-jacobs.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 28 April 2027, so we're doing that review now.\n\nThank you,\nTurner-Jacobs"
+    },
+    {
+      "email_id": "SEED-0046",
+      "day": -19,
+      "date": "2027-02-10",
+      "from": "nicholas.rice@schultz-ferguson.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 23 April 2027, so we're doing that review now.\n\nThank you,\nSchultz-Ferguson"
+    },
+    {
+      "email_id": "SEED-0060",
+      "day": -19,
+      "date": "2027-02-10",
+      "from": "jacob.carroll@warner-maldonado-and-johnson.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 5 May 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nWarner, Maldonado and Johnson"
+    },
+    {
+      "email_id": "SEED-0097",
+      "day": -19,
+      "date": "2027-02-10",
+      "from": "raymond.todd@burnett-burns-and-brown.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 25 March 2027, so we're doing that review now.\n\nThank you,\nBurnett, Burns and Brown"
+    },
+    {
+      "email_id": "SEED-0142",
+      "day": -19,
+      "date": "2027-02-10",
+      "from": "elaine.horton@morse-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 20 May 2027, and we're looking through it now.\n\nBest,\nMorse Group"
+    },
+    {
+      "email_id": "SEED-0005",
+      "day": -18,
+      "date": "2027-02-11",
+      "from": "david.vargas@wyatt-moore-and-lee.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We've decided on the smaller plan",
+      "body": "Hi,\n\nWe've finished our internal renewal discussion and wanted to let you know before you draw up the quote. We are on Standard now, but want to move down to Basic for the next term.\n\nPlease use that choice rather than carrying over the existing tier.\n\nThanks for your help,\nThe Wyatt, Moore and Lee team"
+    },
+    {
+      "email_id": "SEED-0031",
+      "day": -18,
+      "date": "2027-02-11",
+      "from": "john.smith@smith-llc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 19 April 2027, it will be part of the discussion about what to do next.\n\nThanks,\nSmith LLC"
+    },
+    {
+      "email_id": "SEED-0066",
+      "day": -18,
+      "date": "2027-02-11",
+      "from": "david.wright@turner-jacobs.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please note our downgrade before quoting",
+      "body": "Hello,\n\nPlease hold off on preparing a renewal for our existing plan. We have decided to move from Standard to Basic when the contract renews.\n\nThe smaller plan is our choice for the next term. Please make sure the quote reflects this change of tier.\n\nThank you,\nTurner-Jacobs Procurement"
+    },
+    {
+      "email_id": "SEED-0116",
+      "day": -18,
+      "date": "2027-02-11",
+      "from": "chelsea.schultz@ramirez-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Plan change at renewal: Standard to Basic",
+      "body": "Hello,\n\nConfirming the plan selected for Ramirez PLC: please downgrade our subscription from Standard to Basic at renewal.\n\nRegards,\nRamirez PLC Finance"
+    },
+    {
+      "email_id": "SEED-0122",
+      "day": -18,
+      "date": "2027-02-11",
+      "from": "jeremy.mendoza@williams-jensen-and-wilson.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We've decided on the smaller plan",
+      "body": "Hi,\n\nWe've finished our internal renewal discussion and wanted to let you know before you draw up the quote. We are on Standard now, but want to move down to Basic for the next term.\n\nPlease use that choice rather than carrying over the existing tier.\n\nThanks for your help,\nThe Williams, Jensen and Wilson team"
+    },
+    {
+      "email_id": "SEED-0140",
+      "day": -18,
+      "date": "2027-02-11",
+      "from": "danielle.horton@harper-schneider-and-thompson.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 19 May 2027, it will be part of the discussion about what to do next.\n\nThanks,\nHarper, Schneider and Thompson"
+    },
+    {
+      "email_id": "SEED-0024",
+      "day": -17,
+      "date": "2027-02-12",
+      "from": "jacob.conway@miller-walker.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please renew us on Standard",
+      "body": "Hi,\n\nWe're moving down from Premium to Standard at renewal. Please use the smaller plan when preparing the quote.\n\nThanks,\nThe Miller-Walker team"
+    },
+    {
+      "email_id": "SEED-0033",
+      "day": -17,
+      "date": "2027-02-12",
+      "from": "nicole.anderson@jenkins-rollins.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 26 March 2027.\n\nRegards,\nJenkins-Rollins"
+    },
+    {
+      "email_id": "SEED-0047",
+      "day": -17,
+      "date": "2027-02-12",
+      "from": "john.espinoza@smith-hodge.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 28 April 2027, and we're looking through it now.\n\nBest,\nSmith-Hodge"
+    },
+    {
+      "email_id": "SEED-0085",
+      "day": -17,
+      "date": "2027-02-12",
+      "from": "daryl.robinson@hall-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 18 June 2027, it will be part of the discussion about what to do next.\n\nThanks,\nHall Ltd"
+    },
+    {
+      "email_id": "SEED-0125",
+      "day": -17,
+      "date": "2027-02-12",
+      "from": "hannah.taylor@french-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 22 May 2027.\n\nRegards,\nFrench PLC"
+    },
+    {
+      "email_id": "SEED-0132",
+      "day": -17,
+      "date": "2027-02-12",
+      "from": "chelsea.brown@kelly-deleon-and-willis.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please renew us on Basic",
+      "body": "Hi,\n\nWe're moving down from Standard to Basic at renewal. Please use the smaller plan when preparing the quote.\n\nThanks,\nThe Kelly, Deleon and Willis team"
+    },
+    {
+      "email_id": "SEED-0134",
+      "day": -17,
+      "date": "2027-02-12",
+      "from": "richard.hoffman@elliott-burnett.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 31 March 2027, it will be part of the discussion about what to do next.\n\nThanks,\nElliott-Burnett"
+    },
+    {
+      "email_id": "SEED-0149",
+      "day": -17,
+      "date": "2027-02-12",
+      "from": "justin.singh@owens-griffin-and-hammond.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 28 April 2027, so we're doing that review now.\n\nThank you,\nOwens, Griffin and Hammond"
+    },
+    {
+      "email_id": "SEED-0152",
+      "day": -17,
+      "date": "2027-02-12",
+      "from": "jeffrey.george@wilson-and-sons.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 5 May 2027, it will be part of the discussion about what to do next.\n\nThanks,\nWilson and Sons"
+    },
+    {
+      "email_id": "SEED-0074",
+      "day": -16,
+      "date": "2027-02-13",
+      "from": "anna.jackson@morrow-park.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 6 May 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nMorrow-Park"
+    },
+    {
+      "email_id": "SEED-0108",
+      "day": -16,
+      "date": "2027-02-13",
+      "from": "sally.norton@robinson-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 2 June 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nRobinson Group"
+    },
+    {
+      "email_id": "SEED-0121",
+      "day": -16,
+      "date": "2027-02-13",
+      "from": "francisco.fitzgerald@thomas-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 2 May 2027, so we're doing that review now.\n\nThank you,\nThomas Ltd"
+    },
+    {
+      "email_id": "SEED-0016",
+      "day": -15,
+      "date": "2027-02-14",
+      "from": "frank.dorsey@perez-watson-and-brennan.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 10 June 2027.\n\nRegards,\nPerez, Watson and Brennan"
+    },
+    {
+      "email_id": "SEED-0040",
+      "day": -15,
+      "date": "2027-02-14",
+      "from": "tiffany.phillips@bradley-pineda-and-meadows.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 20 May 2027, it will be part of the discussion about what to do next.\n\nThanks,\nBradley, Pineda and Meadows"
+    },
+    {
+      "email_id": "SEED-0045",
+      "day": -15,
+      "date": "2027-02-14",
+      "from": "robert.moore@baker-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 26 April 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nBaker Group"
+    },
+    {
+      "email_id": "SEED-0058",
+      "day": -15,
+      "date": "2027-02-14",
+      "from": "stephanie.baker@johnson-inc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Plan selection for the coming term",
+      "body": "Hello,\n\nFollowing our review of what we need from Halden Systems, we would like to downgrade from Standard to Basic at renewal. We do not wish to continue on the current tier.\n\nKind regards,\nJohnson Inc Operations"
+    },
+    {
+      "email_id": "SEED-0084",
+      "day": -15,
+      "date": "2027-02-14",
+      "from": "susan.james@cruz-walker-and-burke.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 23 May 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nCruz, Walker and Burke"
+    },
+    {
+      "email_id": "SEED-0017",
+      "day": -14,
+      "date": "2027-02-15",
+      "from": "nicholas.jones@lyons-noble-and-jenkins.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 20 June 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nLyons, Noble and Jenkins"
+    },
+    {
+      "email_id": "SEED-0137",
+      "day": -14,
+      "date": "2027-02-15",
+      "from": "sean.fox@jones-rivera.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 20 June 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nJones-Rivera"
+    },
+    {
+      "email_id": "SEED-0029",
+      "day": -13,
+      "date": "2027-02-16",
+      "from": "emily.sanchez@marks-ward.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please renew us on Basic",
+      "body": "Hi,\n\nWe're moving down from Standard to Basic at renewal. Please use the smaller plan when preparing the quote.\n\nThanks,\nThe Marks-Ward team"
+    },
+    {
+      "email_id": "SEED-0063",
+      "day": -12,
+      "date": "2027-02-17",
+      "from": "anthony.rosario@guzman-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 22 March 2027, it will be part of the discussion about what to do next.\n\nThanks,\nGuzman Ltd"
+    },
+    {
+      "email_id": "SEED-0008",
+      "day": -10,
+      "date": "2027-02-19",
+      "from": "jose.lewis@ruiz-llc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 15 May 2027, and we're looking through it now.\n\nBest,\nRuiz LLC"
+    },
+    {
+      "email_id": "SEED-0052",
+      "day": -10,
+      "date": "2027-02-19",
+      "from": "patricia.davis@watson-newton-and-short.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 18 June 2027, it will be part of the discussion about what to do next.\n\nThanks,\nWatson, Newton and Short"
+    },
+    {
+      "email_id": "SEED-0056",
+      "day": -10,
+      "date": "2027-02-19",
+      "from": "regina.williams@rojas-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 16 June 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nRojas PLC"
+    },
+    {
+      "email_id": "SEED-0057",
+      "day": -10,
+      "date": "2027-02-19",
+      "from": "tina.cole@alexander-webb.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 4 May 2027.\n\nRegards,\nAlexander-Webb"
+    },
+    {
+      "email_id": "SEED-0059",
+      "day": -10,
+      "date": "2027-02-19",
+      "from": "stephanie.baker@johnson-inc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 13 June 2027, it will be part of the discussion about what to do next.\n\nThanks,\nJohnson Inc"
+    },
+    {
+      "email_id": "SEED-0138",
+      "day": -10,
+      "date": "2027-02-19",
+      "from": "michelle.cook@flynn-warren-and-glenn.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We've decided on the smaller plan",
+      "body": "Hi,\n\nWe've finished our internal renewal discussion and wanted to let you know before you draw up the quote. We are on Standard now, but want to move down to Basic for the next term.\n\nPlease use that choice rather than carrying over the existing tier.\n\nThanks for your help,\nThe Flynn, Warren and Glenn team"
+    },
+    {
+      "email_id": "SEED-0014",
+      "day": -9,
+      "date": "2027-02-20",
+      "from": "mark.allen@maddox-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 5 April 2027, it will be part of the discussion about what to do next.\n\nThanks,\nMaddox PLC"
+    },
+    {
+      "email_id": "SEED-0019",
+      "day": -9,
+      "date": "2027-02-20",
+      "from": "erin.carpenter@blankenship-inc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A change for our renewal quote",
+      "body": "Hi there,\n\nCould you put the renewal offer together for Basic instead of Standard? We've decided to step down when the current term ends, so the quote should reflect the smaller plan.\n\nMany thanks,\nThe Blankenship Inc team"
+    },
+    {
+      "email_id": "SEED-0048",
+      "day": -9,
+      "date": "2027-02-20",
+      "from": "angela.rhodes@sanders-wallace.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We've decided on the smaller plan",
+      "body": "Hi,\n\nWe've finished our internal renewal discussion and wanted to let you know before you draw up the quote. We are on Standard now, but want to move down to Basic for the next term.\n\nPlease use that choice rather than carrying over the existing tier.\n\nThanks for your help,\nThe Sanders-Wallace team"
+    },
+    {
+      "email_id": "SEED-0069",
+      "day": -9,
+      "date": "2027-02-20",
+      "from": "philip.shaffer@rogers-terrell.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 1 May 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nRogers-Terrell"
+    },
+    {
+      "email_id": "SEED-0088",
+      "day": -9,
+      "date": "2027-02-20",
+      "from": "ashley.hobbs@nguyen-gutierrez-and-diaz.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We've decided on the smaller plan",
+      "body": "Hi,\n\nWe've finished our internal renewal discussion and wanted to let you know before you draw up the quote. We are on Standard now, but want to move down to Basic for the next term.\n\nPlease use that choice rather than carrying over the existing tier.\n\nThanks for your help,\nThe Nguyen, Gutierrez and Diaz team"
+    },
+    {
+      "email_id": "SEED-0126",
+      "day": -9,
+      "date": "2027-02-20",
+      "from": "john.morris@mathis-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 4 June 2027, and we're looking through it now.\n\nBest,\nMathis Group"
+    },
+    {
+      "email_id": "SEED-0143",
+      "day": -9,
+      "date": "2027-02-20",
+      "from": "mary.martin@pratt-andrade.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 14 June 2027.\n\nRegards,\nPratt-Andrade"
+    },
+    {
+      "email_id": "SEED-0154",
+      "day": -9,
+      "date": "2027-02-20",
+      "from": "gail.cooper@roach-mosley.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please note our downgrade before quoting",
+      "body": "Hello,\n\nPlease hold off on preparing a renewal for our existing plan. We have decided to move from Premium to Standard when the contract renews.\n\nThe smaller plan is our choice for the next term. Please make sure the quote reflects this change of tier.\n\nThank you,\nRoach-Mosley Procurement"
+    },
+    {
+      "email_id": "SEED-0022",
+      "day": -8,
+      "date": "2027-02-21",
+      "from": "joshua.kelly@blanchard-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 4 April 2027, it will be part of the discussion about what to do next.\n\nThanks,\nBlanchard Group"
+    },
+    {
+      "email_id": "SEED-0065",
+      "day": -8,
+      "date": "2027-02-21",
+      "from": "katherine.ramirez@cohen-inc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 3 May 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nCohen Inc"
+    },
+    {
+      "email_id": "SEED-0099",
+      "day": -8,
+      "date": "2027-02-21",
+      "from": "melissa.malone@hodge-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We've decided on the smaller plan",
+      "body": "Hi,\n\nWe've finished our internal renewal discussion and wanted to let you know before you draw up the quote. We are on Standard now, but want to move down to Basic for the next term.\n\nPlease use that choice rather than carrying over the existing tier.\n\nThanks for your help,\nThe Hodge Group team"
+    },
+    {
+      "email_id": "SEED-0073",
+      "day": -7,
+      "date": "2027-02-22",
+      "from": "robyn.dillon@hall-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 23 April 2027.\n\nRegards,\nHall PLC"
+    },
+    {
+      "email_id": "SEED-0087",
+      "day": -7,
+      "date": "2027-02-22",
+      "from": "frank.patrick@wood-hudson.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please note our downgrade before quoting",
+      "body": "Hello,\n\nPlease hold off on preparing a renewal for our existing plan. We have decided to move from Premium to Standard when the contract renews.\n\nThe smaller plan is our choice for the next term. Please make sure the quote reflects this change of tier.\n\nThank you,\nWood-Hudson Procurement"
+    },
+    {
+      "email_id": "SEED-0109",
+      "day": -7,
+      "date": "2027-02-22",
+      "from": "jonathan.martin@hunt-house-and-sims.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 1 June 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nHunt, House and Sims"
+    },
+    {
+      "email_id": "SEED-0110",
+      "day": -7,
+      "date": "2027-02-22",
+      "from": "melissa.newton@hayden-gilbert-and-whitaker.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 23 April 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nHayden, Gilbert and Whitaker"
+    },
+    {
+      "email_id": "SEED-0102",
+      "day": -6,
+      "date": "2027-02-23",
+      "from": "jeff.butler@harrison-robinson.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 25 April 2027, and we're looking through it now.\n\nBest,\nHarrison-Robinson"
+    },
+    {
+      "email_id": "SEED-0139",
+      "day": -6,
+      "date": "2027-02-23",
+      "from": "christopher.kirk@brown-inc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 29 May 2027.\n\nRegards,\nBrown Inc"
+    },
+    {
+      "email_id": "SEED-0076",
+      "day": -5,
+      "date": "2027-02-24",
+      "from": "geoffrey.holmes@king-ltd-co.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Plan selection for the coming term",
+      "body": "Hello,\n\nFollowing our review of what we need from Halden Systems, we would like to downgrade from Standard to Basic at renewal. We do not wish to continue on the current tier.\n\nKind regards,\nKing Ltd Operations"
+    },
+    {
+      "email_id": "SEED-0100",
+      "day": -5,
+      "date": "2027-02-24",
+      "from": "melissa.malone@hodge-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 12 May 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nHodge Group"
+    },
+    {
+      "email_id": "SEED-0106",
+      "day": -5,
+      "date": "2027-02-24",
+      "from": "brittney.rodriguez@norris-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 11 April 2027.\n\nRegards,\nNorris PLC"
+    },
+    {
+      "email_id": "SEED-0130",
+      "day": -5,
+      "date": "2027-02-24",
+      "from": "makayla.gibson@smith-and-sons.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 3 June 2027, so we're doing that review now.\n\nThank you,\nSmith and Sons"
+    },
+    {
+      "email_id": "SEED-0136",
+      "day": -5,
+      "date": "2027-02-24",
+      "from": "cassie.rodriguez@robinson-inc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 13 June 2027, it will be part of the discussion about what to do next.\n\nThanks,\nRobinson Inc"
+    },
+    {
+      "email_id": "SEED-0042",
+      "day": -4,
+      "date": "2027-02-25",
+      "from": "mary.parsons@scott-strickland.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Plan change at renewal: Premium to Standard",
+      "body": "Hello,\n\nConfirming the plan selected for Scott-Strickland: please downgrade our subscription from Premium to Standard at renewal.\n\nRegards,\nScott-Strickland Finance"
+    },
+    {
+      "email_id": "SEED-0077",
+      "day": -4,
+      "date": "2027-02-25",
+      "from": "jennifer.mitchell@porter-llc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Plan selection for the coming term",
+      "body": "Hello,\n\nFollowing our review of what we need from Halden Systems, we would like to downgrade from Standard to Basic at renewal. We do not wish to continue on the current tier.\n\nKind regards,\nPorter LLC Operations"
+    },
+    {
+      "email_id": "SEED-0119",
+      "day": -4,
+      "date": "2027-02-25",
+      "from": "melissa.smith@webster-shaw.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We've decided on the smaller plan",
+      "body": "Hi,\n\nWe've finished our internal renewal discussion and wanted to let you know before you draw up the quote. We are on Premium now, but want to move down to Standard for the next term.\n\nPlease use that choice rather than carrying over the existing tier.\n\nThanks for your help,\nThe Webster-Shaw team"
+    },
+    {
+      "email_id": "SEED-0002",
+      "day": -3,
+      "date": "2027-02-26",
+      "from": "jimmy.farmer@anderson-harris.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A change for our renewal quote",
+      "body": "Hi there,\n\nCould you put the renewal offer together for Standard instead of Premium? We've decided to step down when the current term ends, so the quote should reflect the smaller plan.\n\nMany thanks,\nThe Anderson-Harris team"
+    },
+    {
+      "email_id": "SEED-0004",
+      "day": -3,
+      "date": "2027-02-26",
+      "from": "james.carter@bernard-harrison.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 17 May 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nBernard-Harrison"
+    },
+    {
+      "email_id": "SEED-0012",
+      "day": -3,
+      "date": "2027-02-26",
+      "from": "michael.jones@lee-adams-and-williams.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A change for our renewal quote",
+      "body": "Hi there,\n\nCould you put the renewal offer together for Basic instead of Standard? We've decided to step down when the current term ends, so the quote should reflect the smaller plan.\n\nMany thanks,\nThe Lee, Adams and Williams team"
+    },
+    {
+      "email_id": "SEED-0020",
+      "day": -3,
+      "date": "2027-02-26",
+      "from": "cameron.bray@singh-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 23 June 2027.\n\nRegards,\nSingh PLC"
+    },
+    {
+      "email_id": "SEED-0113",
+      "day": -3,
+      "date": "2027-02-26",
+      "from": "jessica.thomas@keith-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 29 March 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nKeith Group"
+    },
+    {
+      "email_id": "SEED-0163",
+      "day": -3,
+      "date": "2027-02-26",
+      "from": "derek.santos@smith-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 29 April 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nSmith Group"
+    },
+    {
+      "email_id": "SEED-0013",
+      "day": -2,
+      "date": "2027-02-27",
+      "from": "michael.jones@lee-adams-and-williams.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 21 June 2027.\n\nRegards,\nLee, Adams and Williams"
+    },
+    {
+      "email_id": "SEED-0027",
+      "day": -2,
+      "date": "2027-02-27",
+      "from": "patrick.weber@king-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A rival offer is under review",
+      "body": "Hello,\n\nBefore you put together the renewal, please be aware that we're assessing a rival offer. Our Halden Systems contract ends on 27 April 2027, so we're doing that review now.\n\nThank you,\nKing Ltd"
+    },
+    {
+      "email_id": "SEED-0034",
+      "day": -2,
+      "date": "2027-02-27",
+      "from": "nicole.james@summers-moran-and-zimmerman.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Plan selection for the coming term",
+      "body": "Hello,\n\nFollowing our review of what we need from Halden Systems, we would like to downgrade from Premium to Standard at renewal. We do not wish to continue on the current tier.\n\nKind regards,\nSummers, Moran and Zimmerman Operations"
+    },
+    {
+      "email_id": "SEED-0075",
+      "day": -2,
+      "date": "2027-02-27",
+      "from": "haley.ferguson@sparks-and-sons.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We've decided on the smaller plan",
+      "body": "Hi,\n\nWe've finished our internal renewal discussion and wanted to let you know before you draw up the quote. We are on Standard now, but want to move down to Basic for the next term.\n\nPlease use that choice rather than carrying over the existing tier.\n\nThanks for your help,\nThe Sparks and Sons team"
+    },
+    {
+      "email_id": "SEED-0079",
+      "day": -2,
+      "date": "2027-02-27",
+      "from": "daniel.long@johnson-bailey.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 27 March 2027, it will be part of the discussion about what to do next.\n\nThanks,\nJohnson-Bailey"
+    },
+    {
+      "email_id": "SEED-0082",
+      "day": -2,
+      "date": "2027-02-27",
+      "from": "steven.walton@miller-llc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A change for our renewal quote",
+      "body": "Hi there,\n\nCould you put the renewal offer together for Standard instead of Premium? We've decided to step down when the current term ends, so the quote should reflect the smaller plan.\n\nMany thanks,\nThe Miller LLC team"
+    },
+    {
+      "email_id": "SEED-0144",
+      "day": -2,
+      "date": "2027-02-27",
+      "from": "emily.moreno@rosales-haney-and-johnson.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 24 May 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nRosales, Haney and Johnson"
+    },
+    {
+      "email_id": "SEED-0062",
+      "day": -1,
+      "date": "2027-02-28",
+      "from": "sonya.walker@bailey-vincent-and-perez.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "An update from our side",
+      "body": "Hi there,\n\nAn offer from another software supplier has come in. We haven't decided whether to renew with Halden Systems after 16 June 2027, and we're looking through it now.\n\nBest,\nBailey, Vincent and Perez"
+    },
+    {
+      "email_id": "SEED-0081",
+      "day": -1,
+      "date": "2027-02-28",
+      "from": "jason.huff@fox-and-sons.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Considering our options",
+      "body": "Hello,\n\nWe wanted to be upfront: we're looking at another provider as an alternative to Halden Systems. That's part of our planning ahead of 21 May 2027.\n\nRegards,\nFox and Sons"
+    },
+    {
+      "email_id": "SEED-0083",
+      "day": -1,
+      "date": "2027-02-28",
+      "from": "susan.james@cruz-walker-and-burke.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Plan selection for the coming term",
+      "body": "Hello,\n\nFollowing our review of what we need from Halden Systems, we would like to downgrade from Standard to Basic at renewal. We do not wish to continue on the current tier.\n\nKind regards,\nCruz, Walker and Burke Operations"
+    },
+    {
+      "email_id": "SEED-0096",
+      "day": -1,
+      "date": "2027-02-28",
+      "from": "nicole.lawrence@gonzalez-adkins-and-hodge.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 6 May 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nGonzalez, Adkins and Hodge"
+    },
+    {
+      "email_id": "SEED-0128",
+      "day": -1,
+      "date": "2027-02-28",
+      "from": "john.glenn@whitaker-black-and-williams.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A change for our renewal quote",
+      "body": "Hi there,\n\nCould you put the renewal offer together for Basic instead of Standard? We've decided to step down when the current term ends, so the quote should reflect the smaller plan.\n\nMany thanks,\nThe Whitaker, Black and Williams team"
+    },
+    {
+      "email_id": "SEED-0145",
+      "day": -1,
+      "date": "2027-02-28",
+      "from": "melissa.brown@king-young-and-pineda.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 16 May 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nKing, Young and Pineda"
+    },
+    {
+      "email_id": "SEED-0162",
+      "day": -1,
+      "date": "2027-02-28",
+      "from": "amanda.wilkerson@massey-chen.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 2 April 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nMassey-Chen"
+    },
+    {
+      "email_id": "SEED-0003",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "devin.sanders@warner-llc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please don't miss the quote cutoff",
+      "body": "Hi,\n\nA quick reminder as you prepare the renewal: we need the quote by 18 April 2027. Procurement's cutoff is firm. A late quote means we cannot renew, so please allow for that.\n\nThanks,\nWarner LLC Procurement"
+    },
+    {
+      "email_id": "SEED-0006",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "luis.ryan@gonzalez-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Gonzalez PLC: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 17 May 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nGonzalez PLC Procurement"
+    },
+    {
+      "email_id": "SEED-0009",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "tammy.berg@roberts-walker-and-pitts.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Roberts, Walker and Pitts: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 26 March 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nRoberts, Walker and Pitts Procurement"
+    },
+    {
+      "email_id": "SEED-0011",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "nicholas.ashley@pittman-zavala-and-ramirez.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Pittman, Zavala and Ramirez: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 7 May 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nPittman, Zavala and Ramirez Procurement"
+    },
+    {
+      "email_id": "SEED-0018",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "jerome.jones@jones-johnson.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please don't miss the quote cutoff",
+      "body": "Hi,\n\nA quick reminder as you prepare the renewal: we need the quote by 13 April 2027. Procurement's cutoff is firm. A late quote means we cannot renew, so please allow for that.\n\nThanks,\nJones-Johnson Procurement"
+    },
+    {
+      "email_id": "SEED-0028",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "kenneth.harris@mullen-west-and-ward.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Mullen, West and Ward: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 10 April 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nMullen, West and Ward Procurement"
+    },
+    {
+      "email_id": "SEED-0030",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "john.smith@smith-llc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 20 March 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Smith LLC team"
+    },
+    {
+      "email_id": "SEED-0035",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "priscilla.harrison@roy-inc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Procurement timing for the Halden Systems renewal",
+      "body": "Hello,\n\nAlthough our contract ends on 22 May 2027, the purchasing process closes sooner. Please ensure we receive the renewal quote by 22 April 2027. Procurement cannot accept a late quote, so we would be unable to renew.\n\nKind regards,\nRoy Inc Operations"
+    },
+    {
+      "email_id": "SEED-0037",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "amber.walker@reilly-underwood.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Our purchasing deadline comes before contract end",
+      "body": "Hello,\n\nBefore we get further into renewal discussions, could you note our procurement deadline? Your quote needs to reach us by 5 April 2027 so the team can complete its review before the contract ends.\n\nThe process closes at that cutoff. We cannot put a late quote through, which would leave us unable to renew.\n\nRegards,\nThe Reilly-Underwood team"
+    },
+    {
+      "email_id": "SEED-0039",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "john.strickland@wood-griffin-and-reed.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 9 April 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Wood, Griffin and Reed team"
+    },
+    {
+      "email_id": "SEED-0041",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "brooke.anderson@walker-wilson-and-goodwin.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please don't miss the quote cutoff",
+      "body": "Hi,\n\nA quick reminder as you prepare the renewal: we need the quote by 10 April 2027. Procurement's cutoff is firm. A late quote means we cannot renew, so please allow for that.\n\nThanks,\nWalker, Wilson and Goodwin Procurement"
+    },
+    {
+      "email_id": "SEED-0044",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "robert.moore@baker-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 27 March 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Baker Group team"
+    },
+    {
+      "email_id": "SEED-0049",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "chelsea.norton@mclaughlin-sanders.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Our purchasing deadline comes before contract end",
+      "body": "Hello,\n\nBefore we get further into renewal discussions, could you note our procurement deadline? Your quote needs to reach us by 18 March 2027 so the team can complete its review before the contract ends.\n\nThe process closes at that cutoff. We cannot put a late quote through, which would leave us unable to renew.\n\nRegards,\nThe Mclaughlin-Sanders team"
+    },
+    {
+      "email_id": "SEED-0053",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "taylor.le@edwards-hughes.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Edwards-Hughes: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 8 April 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nEdwards-Hughes Procurement"
+    },
+    {
+      "email_id": "SEED-0055",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "regina.williams@rojas-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Renewal quote cutoff: 17 May 2027",
+      "body": "Hello,\n\nTo complete the Halden Systems renewal for Rojas PLC, procurement must have the quote by 17 May 2027. Please work to that cutoff; without the quote in time, we cannot renew.\n\nThank you,\nRojas PLC Finance"
+    },
+    {
+      "email_id": "SEED-0064",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "katherine.ramirez@cohen-inc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please don't miss the quote cutoff",
+      "body": "Hi,\n\nA quick reminder as you prepare the renewal: we need the quote by 3 April 2027. Procurement's cutoff is firm. A late quote means we cannot renew, so please allow for that.\n\nThanks,\nCohen Inc Procurement"
+    },
+    {
+      "email_id": "SEED-0067",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "david.wright@turner-jacobs.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Renewal quote cutoff: 29 March 2027",
+      "body": "Hello,\n\nTo complete the Halden Systems renewal for Turner-Jacobs, procurement must have the quote by 29 March 2027. Please work to that cutoff; without the quote in time, we cannot renew.\n\nThank you,\nTurner-Jacobs Finance"
+    },
+    {
+      "email_id": "SEED-0072",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "jacob.clark@harvey-mcbride-and-gates.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 25 May 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Harvey, Mcbride and Gates team"
+    },
+    {
+      "email_id": "SEED-0086",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "bradley.smith@wells-plc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Wells PLC: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 19 April 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nWells PLC Procurement"
+    },
+    {
+      "email_id": "SEED-0089",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "vanessa.molina@bell-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Bell Ltd: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 26 March 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nBell Ltd Procurement"
+    },
+    {
+      "email_id": "SEED-0090",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "brandon.gardner@wang-hill.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 28 April 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Wang-Hill team"
+    },
+    {
+      "email_id": "SEED-0091",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "christopher.lee@may-zuniga.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Procurement timing for the Halden Systems renewal",
+      "body": "Hello,\n\nAlthough our contract ends on 18 April 2027, the purchasing process closes sooner. Please ensure we receive the renewal quote by 19 March 2027. Procurement cannot accept a late quote, so we would be unable to renew.\n\nKind regards,\nMay-Zuniga Operations"
+    },
+    {
+      "email_id": "SEED-0093",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "kevin.moore@allen-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 18 May 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Allen Ltd team"
+    },
+    {
+      "email_id": "SEED-0095",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "john.hardy@hall-brown.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Hall-Brown: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 25 March 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nHall-Brown Procurement"
+    },
+    {
+      "email_id": "SEED-0098",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "kenneth.owens@huang-johnson-and-oliver.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please don't miss the quote cutoff",
+      "body": "Hi,\n\nA quick reminder as you prepare the renewal: we need the quote by 20 May 2027. Procurement's cutoff is firm. A late quote means we cannot renew, so please allow for that.\n\nThanks,\nHuang, Johnson and Oliver Procurement"
+    },
+    {
+      "email_id": "SEED-0104",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "samuel.brooks@stewart-taylor.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 6 May 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Stewart-Taylor team"
+    },
+    {
+      "email_id": "SEED-0107",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "michael.moore@mccoy-powell.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Renewal quote cutoff: 4 May 2027",
+      "body": "Hello,\n\nTo complete the Halden Systems renewal for Mccoy-Powell, procurement must have the quote by 4 May 2027. Please work to that cutoff; without the quote in time, we cannot renew.\n\nThank you,\nMccoy-Powell Finance"
+    },
+    {
+      "email_id": "SEED-0112",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "cynthia.guzman@smith-montgomery-and-ruiz.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Before we talk renewal",
+      "body": "Hi,\n\nWe've had a proposal from a competing supplier and are reviewing it internally. Since our Halden Systems agreement ends on 23 March 2027, it will be part of the discussion about what to do next.\n\nThanks,\nSmith, Montgomery and Ruiz"
+    },
+    {
+      "email_id": "SEED-0114",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "savannah.bryan@nguyen-byrd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Our purchasing deadline comes before contract end",
+      "body": "Hello,\n\nBefore we get further into renewal discussions, could you note our procurement deadline? Your quote needs to reach us by 27 March 2027 so the team can complete its review before the contract ends.\n\nThe process closes at that cutoff. We cannot put a late quote through, which would leave us unable to renew.\n\nRegards,\nThe Nguyen-Byrd team"
+    },
+    {
+      "email_id": "SEED-0115",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "jill.flores@vincent-thornton.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Vincent-Thornton: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 17 March 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nVincent-Thornton Procurement"
+    },
+    {
+      "email_id": "SEED-0118",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "kimberly.green@lucas-acevedo.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Lucas-Acevedo: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 17 April 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nLucas-Acevedo Procurement"
+    },
+    {
+      "email_id": "SEED-0120",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "francisco.fitzgerald@thomas-ltd.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Renewal quote cutoff: 2 April 2027",
+      "body": "Hello,\n\nTo complete the Halden Systems renewal for Thomas Ltd, procurement must have the quote by 2 April 2027. Please work to that cutoff; without the quote in time, we cannot renew.\n\nThank you,\nThomas Ltd Finance"
+    },
+    {
+      "email_id": "SEED-0123",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "gabriel.brooks@jones-and-sons.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 6 May 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Jones and Sons team"
+    },
+    {
+      "email_id": "SEED-0127",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "elizabeth.melendez@hubbard-woods.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Hubbard-Woods: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 12 April 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nHubbard-Woods Procurement"
+    },
+    {
+      "email_id": "SEED-0131",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "edward.orr@lee-jimenez-and-davis.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "We're comparing providers",
+      "body": "Hello,\n\nAs part of planning for the contract end on 17 June 2027, we're reviewing an alternative to Halden Systems. No decision yet, but we are considering another vendor.\n\nRegards,\nLee, Jimenez and Davis"
+    },
+    {
+      "email_id": "SEED-0133",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "jeremy.schmidt@fitzgerald-and-sons.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Another supplier has been in touch",
+      "body": "Hi,\n\nWe've been approached by another supplier and are taking a look at their offer. With our Halden Systems agreement ending on 18 June 2027, we wanted to flag this before the renewal conversation.\n\nThanks,\nFitzgerald and Sons"
+    },
+    {
+      "email_id": "SEED-0135",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "terry.parker@lewis-brown-and-ross.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Procurement timing for the Halden Systems renewal",
+      "body": "Hello,\n\nAlthough our contract ends on 9 May 2027, the purchasing process closes sooner. Please ensure we receive the renewal quote by 9 April 2027. Procurement cannot accept a late quote, so we would be unable to renew.\n\nKind regards,\nLewis, Brown and Ross Operations"
+    },
+    {
+      "email_id": "SEED-0141",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "daniel.moreno@shelton-jarvis.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 16 May 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Shelton-Jarvis team"
+    },
+    {
+      "email_id": "SEED-0146",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "mark.franklin@cannon-torres.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please don't miss the quote cutoff",
+      "body": "Hi,\n\nA quick reminder as you prepare the renewal: we need the quote by 12 April 2027. Procurement's cutoff is firm. A late quote means we cannot renew, so please allow for that.\n\nThanks,\nCannon-Torres Procurement"
+    },
+    {
+      "email_id": "SEED-0148",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "justin.singh@owens-griffin-and-hammond.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Please don't miss the quote cutoff",
+      "body": "Hi,\n\nA quick reminder as you prepare the renewal: we need the quote by 29 March 2027. Procurement's cutoff is firm. A late quote means we cannot renew, so please allow for that.\n\nThanks,\nOwens, Griffin and Hammond Procurement"
+    },
+    {
+      "email_id": "SEED-0151",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "jeffrey.george@wilson-and-sons.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "A deadline to flag before renewal",
+      "body": "Hi,\n\nWe're getting the paperwork ready and wanted to flag our cutoff: procurement needs your quote by 5 April 2027. If we miss that, we won't be able to renew.\n\nThanks for your help,\nThe Wilson and Sons team"
+    },
+    {
+      "email_id": "SEED-0153",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "kayla.costa@rogers-ortiz.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Procurement timing for the Halden Systems renewal",
+      "body": "Hello,\n\nAlthough our contract ends on 12 May 2027, the purchasing process closes sooner. Please ensure we receive the renewal quote by 12 April 2027. Procurement cannot accept a late quote, so we would be unable to renew.\n\nKind regards,\nRogers-Ortiz Operations"
+    },
+    {
+      "email_id": "SEED-0155",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "gail.cooper@roach-mosley.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Procurement timing for the Halden Systems renewal",
+      "body": "Hello,\n\nAlthough our contract ends on 20 May 2027, the purchasing process closes sooner. Please ensure we receive the renewal quote by 20 April 2027. Procurement cannot accept a late quote, so we would be unable to renew.\n\nKind regards,\nRoach-Mosley Operations"
+    },
+    {
+      "email_id": "SEED-0159",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "michelle.sanders@armstrong-group.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Renewal quote cutoff: 19 May 2027",
+      "body": "Hello,\n\nTo complete the Halden Systems renewal for Armstrong Group, procurement must have the quote by 19 May 2027. Please work to that cutoff; without the quote in time, we cannot renew.\n\nThank you,\nArmstrong Group Finance"
+    },
+    {
+      "email_id": "SEED-0160",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "eric.jimenez@hayes-llc.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Renewal quote cutoff: 16 April 2027",
+      "body": "Hello,\n\nTo complete the Halden Systems renewal for Hayes LLC, procurement must have the quote by 16 April 2027. Please work to that cutoff; without the quote in time, we cannot renew.\n\nThank you,\nHayes LLC Finance"
+    },
+    {
+      "email_id": "SEED-0161",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "james.rivera@bell-gaines.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Renewal quote cutoff: 24 May 2027",
+      "body": "Hello,\n\nTo complete the Halden Systems renewal for Bell-Gaines, procurement must have the quote by 24 May 2027. Please work to that cutoff; without the quote in time, we cannot renew.\n\nThank you,\nBell-Gaines Finance"
+    },
+    {
+      "email_id": "SEED-0164",
+      "day": 0,
+      "date": "2027-03-01",
+      "from": "thomas.willis@moore-lewis.example",
+      "to": "renewals@haldensystems.example",
+      "subject": "Moore-Lewis: deadline for the renewal quote",
+      "body": "Hello,\n\nPlease get the renewal quote to procurement by 24 May 2027. We cannot renew with Halden Systems if it arrives later.\n\nRegards,\nMoore-Lewis Procurement"
+    }
+  ]
+}

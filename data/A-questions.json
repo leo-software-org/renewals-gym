@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question_id": "D1",
+      "text": "What's changing for your team or organization over the next year?"
+    },
+    {
+      "question_id": "D2",
+      "text": "How does your team use Halden day to day, and where does it fall short?"
+    },
+    {
+      "question_id": "D3",
+      "text": "How does a renewal get approved on your side, and when is next year's budget set?"
+    },
+    {
+      "question_id": "D4",
+      "text": "What would make next year a success for you?"
+    }
+  ]
+}
